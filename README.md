@@ -15,6 +15,6 @@ Find the data and the relevant information about the Employee Attendance sheet d
 
 Therefore, I worked with the Employee Attendance sheet dataset of Apr 2022, May 2022, and June 2022. (Data contains around Apr 79 rows | May 85 rows | Jun 83 rows)
 
-Cleaned data & data Manipulation followed by visualization using Power BI.
+Cleaned data & data Manipulation, used DAX Function to calculate measures followed by visualization using Power BI.
 
-RESULT: Employees started WFO by 91%, WFH by 10% over this three months of period.
+RESULT: Employees started WFO by 91%, and WFH by 10% over this three months of period.
